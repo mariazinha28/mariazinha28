@@ -2,7 +2,7 @@
 - 👀 I’m interested in linguagem de programação 
 - 🌱 I’m currently learning iniciando o estudo do htmlssecss
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ..pelo instagram
 
 <!---
 mariazinha28/mariazinha28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

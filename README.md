@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mariazinha28
 - 👀 I’m interested in linguagem de programação 
 - 🌱 I’m currently learning iniciando o estudo do htmlssecss
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...tudo
 - 📫 How to reach me ..pelo instagram
 
 <!---
